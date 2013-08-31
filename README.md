@@ -18,7 +18,7 @@ Showing only functions (right) or with variables included (left)
 
 You'll need to install Ruby if you haven't already, and use the Ruby package manager, gem:
 
-`sudo gem install CoffeeTags'
+`sudo gem install CoffeeTags`
 
 ## Huh?
 
