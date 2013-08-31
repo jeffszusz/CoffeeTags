@@ -14,6 +14,12 @@ Showing only functions (right) or with variables included (left)
 
 <a href="http://skitch.com/plugawy/gyfnb/1-coffeetags-1-vim-unicorn.local-tmux"><img src="http://img.skitch.com/20111012-8cjesum8ru8usqusra4yppj5cc.preview.png" alt="1. CoffeeTags:1:vim - "unicorn.local" (tmux)" /></a><br /><span>Uploaded with <a href="http://skitch.com">Skitch</a>!</span>
 
+## Installation
+
+You'll need to install Ruby if you haven't already, and use the Ruby package manager, gem:
+
+`sudo gem install CoffeeTags'
+
 ## Huh?
 
 CoffeeTags was created for use with Vim and [TagBar plugin](https://github.com/majutsushi/tagbar), however it
